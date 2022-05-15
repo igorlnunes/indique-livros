@@ -1,0 +1,59 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: 48px;
+  padding: 12px;
+}
+  
+.dataContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+  }
+  
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  color: rebeccapurple;
+}
+  
+.bio {
+  text-align: center;
+  color: darkviolet;
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 16px;
+}
+  
+.inputs {
+  text-align: center;
+  color: gray;
+  margin-top: 16px;
+  padding: 4px;
+}
+  
+.waveButton {
+  cursor: pointer;
+  margin-top: 16px;
+  width: 50%;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+}
+  
+.cartao {
+  background-color: violet;
+  margin-top: 16px;
+  padding: 8px;
+}
+  
+.header {
+  /* background-color: lightblue; */
+  margin-top: 16px;
+  padding: 8px
+}
